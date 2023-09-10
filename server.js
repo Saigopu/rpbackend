@@ -9,7 +9,7 @@ let golabaludatedMSG = [];
 
 app.use(
   cors({
-    origin: "https://64fb3c66860af00c13867a39--tiny-brigadeiros-449399.netlify.app/",
+    origin: "https://64fb3c66860af00c13867a39--tiny-brigadeiros-449399.netlify.app",
     credentials: true,
   })
 );
